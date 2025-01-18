@@ -1,7 +1,3 @@
-.logo{
-width:50px;
-}
-
 /* Slideshow container */
 .slideshow-container {
     position: relative;
@@ -135,6 +131,9 @@ width:50px;
 }
 
 @media (max-width: 768px) {
+    .logo{
+width:50px;
+}
     .slideshow-container {
         max-width: 100%;
         height: 40vh; /* Adjust height for smaller screens */
